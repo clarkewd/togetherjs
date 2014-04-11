@@ -4,6 +4,6 @@ $(function () {
 	});
 
 	$('.tjsbutton').click(function () {
-		$('#togetherjs-dock').toggle();
+    $('#togetherjs-dock').toggle();
 	});
 });
